@@ -13,7 +13,7 @@ This project is a custom interpreter for a "toy" programming language, built usi
 - Multi-threading with forking for parallel program states
 
 ## Language Features
-###Supported Instructions:
+### Supported Instructions:
 - Arithmetic, relational, and logical expressions
 
 - Variable declaration and assignment
